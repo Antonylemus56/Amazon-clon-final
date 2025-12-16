@@ -5,25 +5,26 @@ La aplicación renderiza dinámicamente productos, permite agregar y eliminar ar
 
 El proyecto está hecho a partir de un curso de javasCript de mas de 22 horas de duracion con conceptos fundamentales como:
 
-Manipulación del DOM
+- Manipulación del DOM
 
-Modularización con import / export
+- Modularización con import / export
 
-Manejo de arreglos y objetos
+- Manejo de arreglos y objetos
 
-Separación de lógica y presentación
+- Separación de lógica y presentación
 
-Simulación de un carrito de compras
+- Simulación de un carrito de compras
 
-Arquitectura MVC.
+- Arquitectura MVC.
 
-Tecnologías usadas:
+## Tecnologías usadas:
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript
+- JavaScript
+
 ## Arbol del proyecto
 <img width="260" height="460" alt="image" src="https://github.com/user-attachments/assets/3e607f6b-413f-44b3-8afa-b8970958bd8b" />
 
